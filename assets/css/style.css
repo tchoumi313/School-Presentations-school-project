@@ -1,11 +1,18 @@
 body {
-    background: #fff;
+  background: #fff;
 }
 #bg-img {
-    height: 300px;
-    width: 100%;
-    margin-top: 1px;
-    background-size: cover;
-    background-position: center;
-    transition: 0.5s;
+  height: 300px;
+  width: 100%;
+  margin-top: 1px;
+  background-size: cover;
+  background-position: center;
+  transition: 0.5s;
+}
+.div1 {
+  height: 100%;
+  background-color: black;
+  background-image: url("/images/site/4n.jpg");
+  background-size: contain;
+  background-position: center;
 }
